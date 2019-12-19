@@ -1,0 +1,2 @@
+# ZCppCLR_WinformsProjekt12
+Пример графического приложения
