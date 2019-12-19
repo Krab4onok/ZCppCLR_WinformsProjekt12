@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppCLR_WinformsProjekt1", "CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1.vcxproj", "{16DE6BEC-361F-4CC7-BF3A-B789049A7184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Debug|x64.ActiveCfg = Debug|x64
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Debug|x64.Build.0 = Debug|x64
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Debug|x86.ActiveCfg = Debug|Win32
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Debug|x86.Build.0 = Debug|Win32
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Release|x64.ActiveCfg = Release|x64
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Release|x64.Build.0 = Release|x64
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Release|x86.ActiveCfg = Release|Win32
+		{16DE6BEC-361F-4CC7-BF3A-B789049A7184}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F0C28FC-A71E-403E-8B1A-8F5E8F7AAC6E}
+	EndGlobalSection
+EndGlobal
